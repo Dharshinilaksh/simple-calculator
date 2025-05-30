@@ -6,7 +6,7 @@ A modern, responsive web-based calculator with a neumorphic UI built using HTML,
 
 ### 🖼️ Preview
 
-![Calculator Screenshot](image.png)
+![Calculator Screenshot](calculator.png)
 
 ---
 
